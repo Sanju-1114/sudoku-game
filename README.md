@@ -16,7 +16,7 @@ An engaging and responsive Sudoku game built using **HTML**, **CSS**, and **Java
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sudoku-game.git
+git clone https://github.com/Sanju-1114/sudoku-game.git
 
 ```
 Simply open the `sudoku.html` file in any modern web browser to start playing the game—no installation or build steps required.
