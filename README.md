@@ -45,6 +45,11 @@ sudoku-game/
  ├── styles.css   # (Optional/Extra) General styles 
  └── logo.png
 
+## Features that you can add
+
+- You can add some buttons or remove to make it more intractive.
+- You can also change the use UI.
+- You may change the way through which numbers are filling in the boxes.
  
 ## 🤝 Contributing
 
