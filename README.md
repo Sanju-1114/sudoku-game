@@ -36,7 +36,7 @@ Simply open the `sudoku.html` file in any modern web browser to start playing th
 5. Incorrect cells will turn **red** for easy identification.
 ---
 ##  File Structure
-
+```
 sudoku-game/
  │ 
  ├── sudoku.html  # Main HTML page 
@@ -44,6 +44,7 @@ sudoku-game/
  ├── sudoku.js    # Game logic and interactivity 
  ├── styles.css   # (Optional/Extra) General styles 
  └── logo.png
+```
 ---
 ## Features that you can add
 
