@@ -1,17 +1,17 @@
 # Sudoku Game
 
 An engaging and responsive Sudoku game built using **HTML**, **CSS**, and **JavaScript**.
+---
+##  Features
 
-## 🎯 Features
-
-- 🔢 Dynamically generated Sudoku puzzles with balanced difficulty.
-- ⏱️ Real-time timer to track solving time.
-- 🎮 Interactive controls: Start, Pause, Resume, Stop, Reset, New Game, Solve, and Submit.
-- ❌ Visual feedback for incorrect entries.
-- 📱 Fully responsive design for all screen sizes.
-- ✨ Clean and modern UI with smooth transitions and hover effects.
-
-## 🚀 Getting Started
+-  Dynamically generated Sudoku puzzles with balanced difficulty.
+-  Real-time timer to track solving time.
+-  Interactive controls: Start, Pause, Resume, Stop, Reset, New Game, Solve, and Submit.
+-  Visual feedback for incorrect entries.
+-  Fully responsive design for all screen sizes.
+-  Clean and modern UI with smooth transitions and hover effects.
+---
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -21,7 +21,7 @@ git clone https://github.com/Sanju-1114/sudoku-game.git
 ```
 Simply open the `sudoku.html` file in any modern web browser to start playing the game—no installation or build steps required.
 
-## 🕹️ How to Play
+##  How to Play
 
 1. **Click "Start"** to activate the board and begin the timer.
 2. **Select a number** from the number selector.
@@ -34,8 +34,8 @@ Simply open the `sudoku.html` file in any modern web browser to start playing th
    - **Solve:** Automatically fill in the solution.
    - **Submit:** Check your current progress.
 5. Incorrect cells will turn **red** for easy identification.
-
-## 📁 File Structure
+---
+##  File Structure
 
 sudoku-game/
  │ 
@@ -44,14 +44,14 @@ sudoku-game/
  ├── sudoku.js    # Game logic and interactivity 
  ├── styles.css   # (Optional/Extra) General styles 
  └── logo.png
-
+---
 ## Features that you can add
 
 - You can add some buttons or remove to make it more intractive.
 - You can also change the use UI.
 - You may change the way through which numbers are filling in the boxes.
- 
-## 🤝 Contributing
+---
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request with your improvements or bug fixes.
 
